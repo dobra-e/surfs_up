@@ -8,6 +8,10 @@ Potential investors in a new Surf and Shake Shop are concerned about the impact 
 Temperature data for the months of June and December were extract from the data set, summarized, and compared using Python, Pandas, and SQLAlchemy.
 
 ## Results
+| ![June Temps](/Tables/JuneTemps.png)|![December Temps](/Tables/DecemberTemps.png)
+|:--:|:--:|
+|*Summary statistics of June temperature data.*|*Summary statistics of December temperature data.*|
+
 * The mean temperature in June was approximately 4 degrees higher than December, 74.9 and 71.1, respectively.
 * The range of temperatures (difference between minimum and maximum temperature) is larger in December (27 degrees) than in June (21 degrees).
 * While the range of temperatures is larger for December, the standard deviation is lower indicating that data is more clustered around the mean. In other words, the temperature is slightly more stable/reliable in December than it is in June.
